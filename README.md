@@ -2,16 +2,16 @@ Hi!! I'm Amirul Syafiq
 
  - 💠I'm currently a final year Computer Science student at Univeriti Teknologi Mara (UiTM)
  - Have learnt several programming languages such as:-
-    -. C/C++
-    -. Java
-    -. Visual Basic.NET
-    -. C#.NET
-    -. Python
-    -. HTML
-    -. CSS
-    -. JavaScript
-    -. PHP
-    -. MariaDB / MySQL
+    - C/C++
+    - Java
+    - Visual Basic.NET
+    - C#.NET
+    - Python
+    - HTML
+    - CSS
+    - JavaScript
+    - PHP
+    - MariaDB / MySQL
 
 <!--
 **amsyafiiq/amsyafiiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
