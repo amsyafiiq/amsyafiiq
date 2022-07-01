@@ -1,6 +1,6 @@
 Hi!! I'm Amirul Syafiq
 
-- I'm currently a final year Computer Science student at Univeriti Teknologi Mara (UiTM). 
+ 💠I'm currently a final year Computer Science student at Univeriti Teknologi Mara (UiTM). 
 
 <!--
 **amsyafiiq/amsyafiiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
